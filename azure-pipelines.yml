@@ -4,7 +4,7 @@
 
 
 trigger:
-- master
+- ABranch
 
 pool:
   vmImage: 'Ubuntu-16.04'
